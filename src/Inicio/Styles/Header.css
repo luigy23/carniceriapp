@@ -1,0 +1,15 @@
+
+/* Imagen de fondo  que está en la carpeta src/assets/images/bg-header.png
+
+
+*/
+.header-image-bg {
+    background-image: url('../../assets/images/bg-header.png');
+    background-size: cover;
+    background-position: center;
+    height: calc(100vh - 80px);
+    /* overlay */
+ 
+}
+
+/* overlay */
