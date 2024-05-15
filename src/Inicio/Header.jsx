@@ -9,7 +9,7 @@ const Header = () => {
 
     <div className='absolute top-0 left-0 w-full h-full bg-black opacity-30 '></div>
     <h1 className='text-4xl font-bold z-10
-    '>Bienvenidos</h1>
+    '>Bienvenidososssss</h1>
 
     </div>
   )
