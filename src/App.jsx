@@ -14,7 +14,8 @@ function App() {
         <NavMenu  />
         <Header />
         <div className='w-full flex bg-slate-50 h-20 items-center justify-center'>
-          otra seccion
+          otra seccion2
+
         </div>
       </main>
     </>
