@@ -6,7 +6,7 @@ const NavMenu = () => {
         <div className='w-1/2'>Logo</div>
         <div className='w-1/2 flex justify-end gap-8'>
             <a href='#'>Home</a>
-            <a href='#'>About</a>
+            <a href='about'>About</a>
             <a href='#'>Contact</a>
         </div>
 
