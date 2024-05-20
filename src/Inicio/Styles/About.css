@@ -1,0 +1,29 @@
+/* About.css */
+.about-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header {
+    height: 100vh; /* Ocupa toda la altura de la pantalla */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa; /* Color de fondo del header */
+  }
+  
+  .cards-container {
+    display: flex;
+    flex-direction: column; /* Cartas en una sola columna */
+    padding: 20px;
+  }
+  
+  .card {
+    margin: 10px 0; /* Espacio entre las cartas */
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
