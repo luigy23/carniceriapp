@@ -1,0 +1,27 @@
+[
+    {
+      "nombre": "Carne de Res",
+      "descripcion": "La carne de res es rica en proteínas, vitaminas y minerales, especialmente hierro y zinc. Es una de las carnes más consumidas a nivel mundial.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtUPi6XvffTm-rhmY3oZ7sMbjlTMlhxvu32S8zCyATw&s"
+    },
+    {
+      "nombre": "Carne de Cerdo",
+      "descripcion": "La carne de cerdo es conocida por su sabor jugoso y versatilidad en la cocina. Es rica en tiamina, niacina y otras vitaminas del complejo B.",
+      "imagen": "https://www.gob.mx/cms/uploads/article/main_image/37481/carne1.jpg"
+    },
+    {
+      "nombre": "Pollo",
+      "descripcion": "El pollo es una carne blanca popular que es baja en grasa y alta en proteínas. Es una opción saludable y versátil en muchas recetas.",
+      "imagen": "https://thefoodtech.com/wp-content/uploads/2020/09/maduracion-de-carne-de-pollo.jpg"
+    },
+    {
+      "nombre": "Cordero",
+      "descripcion": "La carne de cordero es tierna y tiene un sabor distintivo. Es una excelente fuente de proteínas, hierro y vitamina B12.",
+      "imagen": "https://www.recetags.com/noticias/wp-content/uploads/2016/02/cordero-1134x572.jpg"
+    },
+    {
+      "nombre": "Pavo",
+      "descripcion": "El pavo es otra carne blanca que es baja en grasa y alta en proteínas. Es popular en festividades y también es una opción saludable para el día a día.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH1LmX9FTELTM_L2SiMaNb2hhNBCpKD-kgCv3SzqZz6Q&s"
+    }
+  ]
